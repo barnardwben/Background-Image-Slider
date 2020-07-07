@@ -8,11 +8,12 @@ body {
 
 .images{
   background: yellow;
-  flex: 0 0 80%;
-  min-height: 70vh;
+  flex: 0 0 50%;
+  min-height: 90vh;
+  /* min-width: 10vw; */
   background: url('imgs/bcg-0.jpg')center/cover no-repeat;
   border-radius: 15px;
-  box-shadow: 5px 10px black;
+  box-shadow: 3px 5px 15px black;
   position: relative;
 }
 
